@@ -7,7 +7,6 @@
 
 import React from 'react';
 import { Dimensions, ImageBackground, Text, TouchableOpacity, View } from 'react-native';
-import ProfilePicture from '../Profile/ProfilePicture';
 
 const { width, height } = Dimensions.get('window');
 
